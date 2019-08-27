@@ -1,2 +1,1 @@
-# quickpickexample
-quick pick for VSCODE
+test quickpick
